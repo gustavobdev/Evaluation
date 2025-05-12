@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Ambev.DeveloperEvaluation.Application",
+    "\\src\\Ambev.DeveloperEvaluation.Application\\Auth",
+    "\\src\\Ambev.DeveloperEvaluation.Application\\Auth\\AuthenticateUser",
+    "\\src\\Ambev.DeveloperEvaluation.Application\\Users"
+  ],
+  "SelectedNode": "\\src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj",
+  "PreviewInSolutionExplorer": false
+}
